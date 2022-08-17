@@ -1,5 +1,5 @@
-import { NgModule, Component } from '@angular/core';
-import { Router, RouterModule, Routes } from '@angular/router';
+import { NgModule } from '@angular/core';
+import { RouterModule, Routes } from '@angular/router';
 
 import { ErrorPageComponent } from './shared/error-page/error-page.component';
 
